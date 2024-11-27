@@ -20,3 +20,9 @@ This project demonstrates foundational skills in network programming, packet ana
   Install Scapy in your environment using:
   '''bash
   pip install scapy
+
+### DISCLAIMER
+This tool is intented for **educational purposes only**
+Ensure you have proper authorization before using this tool to analyze or monitor network traffic. Unauthorized use may violate privacy laws and organizational policies.
+
+The author is not responissble for any misuse of this software.
