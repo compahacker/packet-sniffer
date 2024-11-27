@@ -13,7 +13,6 @@ This project demonstrates foundational skills in network programming, packet ana
 
 --
 
-## Prerequisites
 ### Tools and Libraries
 
 - **Python 3.8+**
